@@ -24,34 +24,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
-<html>
-<head>
-<title>My City</title>
-</head>
-<body>
-<h1 align="center">
-<font color="red"><b>Cuddalore</b></font>
-</h1>
-<h3 align="center">
-<font color="blue"><b>Avanthika B (212224040039)</b></font>
-</h3>
-<center>
-<img src="map.png" usemap="#MyCity" height="610" width="1450">
-<map name="MyCity">
-<area shape="rect" coords="700,250,850,400" href="home.html" title="My Home Town">
-<area shape="rect" coords="970,390,1020,440" href="beach.html" title="Silver Beach">
-<area shape="circle" coords="470,190,30" href="puducherry.html" title="Puducherry">
-<area shape="rect" coords="400,150,250,100" href="Manikoondu.html" title="Manikoondu">
-<area shape="circle" coords="970,390,102" href="Devanampattinam.html" title="Devanampattinam">
-<area shape="rect" coords="600,150,102,100" href="chavadi.html" title="Chavadi">
-</map>
-</center>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
+## CODE<head>
   <title>Cuddalore - Coastal City of Tamil Nadu</title>
 </head>
 <body>
